@@ -20,9 +20,3 @@
 3. なぜチュートリアルやオンラインのコースだけではなく、プロジェクトをやるべきかを疑問に思ったときには、こちらの記事を読んでみてください。[How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. Githubにうまくコードをプッシュできないときには (まだ初心者でチュートリアルをやっている場合など)、ツイートへのリンクを公開してください。何かしら、公に見れるものであればやる気が持続します。
 5. このリポジトリをフォークするメリットがさらにあるとしたら、マークダウン記法のいい練習になることです。
-
-## コンテンツ
-* [ルール](rules.md)
-* [学習ログ](log.md)
-* [FAQ](FAQ.md)
-* [リソース](resources.md)
