@@ -57,3 +57,10 @@ class binary_tree:
   """
   def get_root(self):
     return self.value
+
+
+ROOT = binary_tree()
+print(ROOT.value)
+
+ROOT.insert_left("f_left")
+print(ROOT.get_left)
